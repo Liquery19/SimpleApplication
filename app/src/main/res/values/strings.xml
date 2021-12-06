@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text">Text</string>
+    <string name="roll">roll</string>
+    <string name="developers">Разработчики:</string>
+    <string name="dice_roll">Dice Roll</string>
+    <string name="about">About</string>
+</resources>
